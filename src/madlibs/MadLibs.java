@@ -59,4 +59,4 @@ public class MadLibs {
         } while (playAgain.equalsIgnoreCase("y"));
         System.out.println("Thank you for playing! Your tries: " + numberOfTries + " Goodbye.");
     }
-}
+}//123
